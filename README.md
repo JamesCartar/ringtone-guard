@@ -10,6 +10,14 @@ It's a little less phone troubleshooting and, hopefully, fewer missed calls. It 
 
 Built with native Android APIs. No third-party automation app, backend, or internet permission required; no Android Studio needed to build it.
 
+## App preview
+
+The Ringtone Guard screen lets you set a minimum ringtone volume, start or pause protection, and check the phone's current sound settings.
+
+<p align="center">
+  <img src="assets/images/app-preview.jpg" alt="Ringtone Guard app preview" width="320">
+</p>
+
 ## On the phone
 
 1. Open **Ringtone Guard**.
